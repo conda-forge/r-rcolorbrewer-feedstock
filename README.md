@@ -14,9 +14,8 @@ Summary: Provides color schemes for maps (and other graphics) designed by Cynthi
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-rcolorbrewer-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-rcolorbrewer-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/r-rcolorbrewer-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-rcolorbrewer-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-rcolorbrewer-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-rcolorbrewer-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/r-rcolorbrewer-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/r-rcolorbrewer-feedstock)
 
 Current release info
 ====================
