@@ -1,11 +1,11 @@
-About r-rcolorbrewer
-====================
+About r-rcolorbrewer-feedstock
+==============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rcolorbrewer-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=RColorBrewer
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rcolorbrewer-feedstock/blob/main/LICENSE.txt)
 
 Summary: Provides color schemes for maps (and other graphics) designed by Cynthia Brewer as described at http://colorbrewer2.org
 
